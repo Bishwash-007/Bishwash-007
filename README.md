@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hi there! I’m Bishwash Chaudhari, a passionate developer and AI/ML enthusiast. I love building seamless and innovative solutions that combine cutting-edge technologies with a focus on accessibility and inclusivity. 🚀<br><br>🌟 What I Do<br>	•	React Native Development: Crafting intuitive and high-performing mobile apps with tools like Expo Router and NativeWind.<br>	•	AI/ML Enthusiast: Exploring the world of artificial intelligence and machine learning to create smarter, user-centric applications.<br>	•	Backend Development: Working with serverless Neon DB and Firebase to deliver scalable backend solutions.<br>	•	Creative Features: Integrating AI-driven voice reading and text interaction tools for enhanced user experiences.<br><br>🌱 Current Learning<br>	•	Diving into AI/ML concepts to bring smarter features to my projects.<br>	•	Enhancing my skills in React Native app development.<br><br>🔭 Current Projects<br>	•	BookLst App: A community-driven app for readers with features like AI voice reading and accessibility tools.<br>	•	Next.js Book Reader Web App: A sleek platform for immersive book reading experiences with AI-powered voice narration.<br><br>💬 Let’s Connect<br><br>If you’re into AI/ML, mobile app development, or just love tech conversations, feel free to reach out or collaborate on exciting projects!
+Hi, I’m Bishwash Chaudhari—a developer passionate about React Native and AI/ML. I build intuitive apps with seamless user experiences and explore innovative solutions for accessibility and inclusivity.
+
+🌱 Currently Learning
+	•	AI/ML to create smarter, user-focused features.
+	•	Advancing my skills in React Native app development.
+
+🔭 Current Projects
+	•	BookLst App: A reader’s community app with AI-powered accessibility tools.
+	•	Next.js Book Reader: A sleek web app for immersive book reading experiences.
+
+Let’s connect and create something amazing together!
 
 
 # 💻 Tech Stack:
