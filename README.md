@@ -7,7 +7,6 @@ Hi, I’m Bishwash Chaudhari—a developer passionate about React Native and AI/
 
 🔭 Current Projects
 	•	BookLst App: A reader’s community app with AI-powered accessibility tools.
-	•	Next.js Book Reader: A sleek web app for immersive book reading experiences.
 
 Let’s connect and create something amazing together!
 
