@@ -7,13 +7,8 @@ Hi, I’m Bishwash Chaudhari—a developer passionate about React Native and AI/
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bishwash-007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bishwash-007&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishwash-007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Bishwash-007&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Bishwash-007&icon=0&color=8)](https://visitcount.itsvg.in)
