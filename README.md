@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I’m Bishwash Chaudhari—a developer passionate about React Native and AI/ML. I build intuitive apps with seamless user experiences and explore innovative solutions for accessibility and inclusivity.<br><br>🌱 Currently Learning<br>	•	AI/ML to create smarter, user-focused features.<br>	•	Advancing my skills in React Native app development.<br><br>🔭 Current Projects<br>	•	BookLst App: A reader’s community app with AI-powered accessibility tools.<br><br>Let’s connect and create something amazing together!
+Hi, I’m Bishwash Chaudhari—a developer passionate about React Native and AI/ML. I build intuitive apps with seamless user experiences and explore innovative solutions for accessibility and inclusivity.<br><br>🌱 Currently Learning<br>	•	AI/ML to create smarter, user-focused features.<br>	•	Advancing my skills in React Native app development.<br><br>🔭 Current Projects<br>	•	BookLst App: A reader’s community app with AI-powered accessibility tools.<br>•	Rubik 3D : A real-time 3d Rubik cube app that give you the shortest possbile algorithm to solve the mesh<br>
+<br>Let’s connect and create something amazing together!
 
 
 # 💻 Tech Stack:
