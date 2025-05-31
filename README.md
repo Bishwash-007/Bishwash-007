@@ -3,9 +3,7 @@ Hi, I'm Bishwash Chaudhari - a developer passionate about React Native and AI/ML
 
 ## Currently Learning
 • Advancing my skills in React Native app development<br>
-• ML/DL to create smarter, user-focused features<br>
-• Exploring NLP<br>
-• Exploring scikit-learn and PyTorch<br>
+• Exploring ML/DL with scikit-learn and PyTorch<br>
 
 ## 🔭 Current Projects
 • BookLst App: A reader's community app with AI-powered accessibility tools
