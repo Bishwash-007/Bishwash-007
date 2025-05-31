@@ -2,9 +2,10 @@
 Hi, I'm Bishwash Chaudhari - a developer passionate about React Native and AI/ML and Mathematics. I build intuitive apps with seamless user experiences and explore innovative solutions for accessibility and inclusivity.
 
 ## Currently Learning
-• AI/ML to create smarter, user-focused features<br>
 • Advancing my skills in React Native app development<br>
-• Exploring scikit-learn for enhanced ML capabilities<br>
+• ML/DL to create smarter, user-focused features<br>
+• Exploring NLP<br>
+• Exploring scikit-learn and PyTorch<br>
 
 ## 🔭 Current Projects
 • BookLst App: A reader's community app with AI-powered accessibility tools
